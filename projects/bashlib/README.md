@@ -1,6 +1,6 @@
 # ❔ Why
 
-These icons primarily serve our [`bashlib` Project](https://github.com/fmjstudios/bashlib), particularly because Bash does not "provide" icons. STherefore we downloaded icons we decided fit and stored them here for later re-use.
+These icons primarily serve our [`bashlib` Project](https://github.com/fmjstudios/bashlib), particularly because Bash does not "provide" icons. Therefore we downloaded icons we decided fit and stored them here for later re-use.
 
 ### ©️ Copyright
 
