@@ -4,4 +4,4 @@ These icons primarily serve our [`gopskit` Project](https://github.com/fmjstudio
 
 ### ©️ Copyright
 
-_Assets provided by:_ **[Envato](https://elements.envato.com/)**
+_Assets provided by:_ **[IconScout](https://iconscout.com)**
